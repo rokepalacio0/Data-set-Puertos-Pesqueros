@@ -9,11 +9,11 @@
 
 ## 🖼️ Capturas del Proyecto
 
-![Dashboard](URL_DE_IMAGEN_DEL_DASHBOARD)
-*Descripción de la imagen del dashboard*
+![Dashboard](https://github.com/rokepalacio0/Data-set-Puertos-Pesqueros/blob/main/IMAGES/Captura%20de%20pantalla%202024-09-12%20234958.png)
+*DASHBOARD TERMINADO*
 
-![Documentación](URL_DE_IMAGEN_DE_DOCUMENTACION)
-*Descripción de la imagen de la documentación*
+![Documentación](https://github.com/rokepalacio0/Data-set-Puertos-Pesqueros/blob/main/IMAGES/Captura%20de%20pantalla%202024-09-12%20235247.png)
+*DOCUMENTACION*
 
 ## 🌐 Ver en Tableau Public
 
